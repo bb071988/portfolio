@@ -1,0 +1,36 @@
+* {
+    background-color: #6699FF;
+}
+
+
+.picture {
+    display:inline-block;
+}
+
+img {
+    width:500px;
+    
+    vertical-align: top;
+
+    margin:5px;
+
+    border: 2px solid;
+
+    border-color: blue;
+}
+
+.port:hover {
+
+    border-color: red;
+    
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.contacts {
+    margin:20px;
+}
